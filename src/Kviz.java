@@ -14,11 +14,12 @@ public class Kviz {
     }
     
     public double mnozenje (double a, double b) {
-	return 0;
+	
+	return a * b;
     }
     
     public double dijeljenje (double a, double b) {
-	return 0;
+	return a / b;
     }
     public double korjenovanje (double a) {
 	return Math.sqrt(a);
