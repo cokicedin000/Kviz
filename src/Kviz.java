@@ -21,10 +21,10 @@ public class Kviz {
 	return 0;
     }
     public double korjenovanje (double a) {
-	return 0;
+	return Math.sqrt(a);
     }
     
     public double kvadriranje (double a) {
-	return 0;
+	return Math.pow(a, 2);
     }
 }
